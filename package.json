@@ -1,0 +1,21 @@
+{
+  "name": "electron-template",
+  "version": "1.0.0",
+  "description": ":snowflake: Electron Template",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SudoDotDog/Electron-Template.git"
+  },
+  "author": "SudoDotDog",
+  "bugs": {
+    "url": "https://github.com/SudoDotDog/Electron-Template/issues"
+  },
+  "homepage": "https://github.com/SudoDotDog/Electron-Template#readme",
+  "dependencies": {
+    "electron": "^6.0.8"
+  }
+}
