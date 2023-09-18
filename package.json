@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/SudoDotDog/Electron-Template#readme",
   "dependencies": {
-    "electron": "^22.3.21"
+    "electron": "^22.3.24"
   }
 }
